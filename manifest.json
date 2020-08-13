@@ -4,7 +4,7 @@
  "lang": "pt",
  "description": "Site de exemplo do PWA",
  "start_url": "./index.html",
- "scope":"./pwa/",
+ "scope":"./",
  "background_color": "#00aae7",
  "theme_color": "#00aae7",
  "dir": "ltr",
